@@ -1,6 +1,12 @@
-<h1>Manipulative Maths Readme</h1>
+# Manipulative Maths Readme
 
-<h2>Installation guide:</h2>
+## Installation guide:
+
+- `git clone git@github.com:kaidaw/whiterosemaths.git`
+  - Clones repository from github
+- `cd whiterosemaths`
+  - Changes directory to root of project
+
 <ul>
 <li>first: create or select an existing repository location and navigate to this in your terminal</li>
 <li>`git clone git@github.com:kaidaw/whiterosemaths.git #clones repository from github`</li>
